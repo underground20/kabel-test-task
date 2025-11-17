@@ -1,0 +1,1 @@
+0 22 * * * root /usr/local/bin/php /var/www/app/bin/console import:characters-and-episodes >> /proc/1/fd/1 2>/proc/1/fd/2
